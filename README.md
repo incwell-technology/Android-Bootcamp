@@ -6,7 +6,7 @@ Curriculum of Android Bootcamp
 2. Software development process(Agile)
 3. Training on kotlin
 4. Training on Android Framework
-5. Training on portfolio building
+5. [Training on portfolio building](https://github.com/incwell-technology/Android-Bootcamp/wiki/Project-Concept)
 6. Training on interview preparation
 7. 1-1 mentorship
 
