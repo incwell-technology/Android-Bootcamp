@@ -11,14 +11,12 @@ Curriculum of Android Bootcamp
 7. 1-1 mentorship
 
 # Mentors
-[<img src="https://avatars3.githubusercontent.com/u/11496688?v=4" width="100px;"/><br /><sub><b>Rajesh Khadka</b></sub>](http://thibmaek.com)<br /> [![alt text][1.1]](https://twitter.com/rajesh_k_khadka)|
+[<img src="https://avatars3.githubusercontent.com/u/11496688?v=4" width="100px;"/><br /><sub><b>Rajesh Khadka</b></sub>](http://thibmaek.com)<br /> [![alt text][1]](https://github.com/khadkarajesh) &nbsp; [![alt text][3]](https://linkedin.com/in/rajeshkhadka) &nbsp; [![alt text][2]](https://medium.com/@rajesh_khadka) &nbsp; [![alt text][4]](https://twitter.com/rajesh_k_khadka)|
 
-[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
-[2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
-[3.1]: http://i.imgur.com/yCsTjba.png (google plus icon with padding)
-[4.1]: http://i.imgur.com/YckIOms.png (tumblr icon with padding)
-[5.1]: http://i.imgur.com/1AGmwO3.png (dribbble icon with padding)
-[6.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
+[1]: https://github.com/khadkarajesh/Android-Bootcamp/blob/master/github.png?raw=true (github icon)
+[2]: https://github.com/khadkarajesh/Android-Bootcamp/blob/master/medium.png?raw=true (medium icon)
+[3]: https://github.com/khadkarajesh/Android-Bootcamp/blob/master/linkedin.png?raw=true (linkedin icon)
+[4]: https://github.com/khadkarajesh/Android-Bootcamp/blob/master/twitter.png?raw=true (twitter icon)
 
 
 
