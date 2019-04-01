@@ -4,8 +4,8 @@ Curriculum of Android Bootcamp
 # Needs to cover
 1. [Training on git](https://github.com/khadkarajesh/Android-Bootcamp/wiki/Learn-Git)
 2. [Software development process](https://github.com/incwell-technology/Android-Bootcamp/wiki/Software-Development-Process)
-3. Training on kotlin
-4. Training on Android Framework
+3. [Training on kotlin](https://github.com/incwell-technology/Android-Bootcamp/wiki/Kotlin)
+4. [Training on Android Framework](https://github.com/incwell-technology/Android-Bootcamp/wiki/Android-Application-Development)
 5. [Training on portfolio building](https://github.com/incwell-technology/Android-Bootcamp/wiki/Project-Concept)
 6. Training on interview preparation
 7. 1-1 mentorship
