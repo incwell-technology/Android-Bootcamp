@@ -1,4 +1,4 @@
-# We assist on the following
+# We will guide you on the following
 1. [Training on git](https://github.com/khadkarajesh/Android-Bootcamp/wiki/Learn-Git)
 2. [Software development process](https://github.com/incwell-technology/Android-Bootcamp/wiki/Software-Development-Process)
 3. [Training on kotlin](https://github.com/incwell-technology/Android-Bootcamp/wiki/Kotlin)
@@ -20,11 +20,11 @@ Wait 👀
 We want to know more about you, and want you to showcase your skills.
 You can do so by following the steps below:
 
-1. Solve [problems](https://github.com/incwell-technology/Android-Bootcamp/wiki/Programming-test) using laguage that computer understand
+1. Solve [problems](https://github.com/incwell-technology/Android-Bootcamp/wiki/Programming-test) using any modern programming languages.
 2. Push it to your github
 3. Add us [@khadkarajesh](github.com/khadkarajesh), [@darmagedon](https://github.com/darmagedon) as collaborator
-4. We will provide you a feedback on your repository
-5. We will reach you for further steps
+
+We will provide you a feedback on your repository and will reach you for further steps.
 
 # Scholarship
 [Apply](https://docs.google.com/forms/d/e/1FAIpQLSf5kUi9WFWtVynl8ZpIr-1usrfeE240uPs2nT5yNyNSO3EYKQ/viewform?usp=pp_url) for scholarship.
