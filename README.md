@@ -5,7 +5,7 @@
 4. [Training on Android Framework](https://github.com/incwell-technology/Android-Bootcamp/wiki/Android-Application-Development)
 5. [Training on portfolio building](https://github.com/incwell-technology/Android-Bootcamp/wiki/Project-Concept)
 6. [Training on interview preparation](https://github.com/incwell-technology/Android-Bootcamp/wiki/Training-on-interview-preparation)
-7. 1-1 mentorship
+7. [1-1 mentorship](https://github.com/incwell-technology/Android-Bootcamp/wiki/one-on-one-mentorship)
 8. [Open source contribution](https://github.com/incwell-technology/Android-Bootcamp/wiki/Open-Source-contribution)
 
 # Curious about ur day 🤔?
