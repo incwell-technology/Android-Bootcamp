@@ -8,7 +8,7 @@
 7. [1-1 mentorship](https://github.com/incwell-technology/Android-Bootcamp/wiki/one-on-one-mentorship)
 8. [Open source contribution](https://github.com/incwell-technology/Android-Bootcamp/wiki/Open-Source-contribution)
 
-# Curious about ur days 🤔?
+# Curious about your days 🤔?
 [Days at bootcamp](https://github.com/incwell-technology/Android-Bootcamp/wiki/Days-at-Bootcamp)
 
 # Are you ready for marathon 🏃?
@@ -16,7 +16,7 @@ Wait 👀
 
 **Best mentors are those who understand you and design curriculum that fits best for you rather than using a template.**
 
-We wanna know more about you.
+We want to know more about you.
 1. Solve [problems](https://github.com/incwell-technology/Android-Bootcamp/wiki/Programming-test) using laguage that computer understand
 2. Push it to your github
 3. Add us [@khadkarajesh](github.com/khadkarajesh), [@darmagedon](https://github.com/darmagedon) as collaborator
