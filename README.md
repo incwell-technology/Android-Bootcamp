@@ -14,7 +14,7 @@
 # Are you ready for marathon 🏃?
 Wait 👀
 
-**Best mentors are those who understand you and design curriculam that fits best for you rather than using a templete.**
+**Best mentors are those who understand you and design curriculum that fits best for you rather than using a template.**
 
 We wanna know more about you.
 1. Solve [problems](https://github.com/incwell-technology/Android-Bootcamp/wiki/Programming-test) using laguage that computer understand
