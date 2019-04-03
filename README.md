@@ -23,6 +23,11 @@ We wanna know more about you.
 4. We will provide you a feedback on your repository
 5. We will reach you for further steps
 
+# Scholarship
+[Apply](https://docs.google.com/forms/d/e/1FAIpQLSf5kUi9WFWtVynl8ZpIr-1usrfeE240uPs2nT5yNyNSO3EYKQ/viewform?usp=pp_url) for scholarship.
+
+Once you shortlisted for scholarship you will have technical interveiw at our office.
+
 # Mentors
 | <img src="https://avatars3.githubusercontent.com/u/11496688?v=4" width="100px;"/><br /><sub><b>Rajesh Khadka</b></sub> <br /> [![alt text][1]](https://github.com/khadkarajesh) &nbsp; [![alt text][3]](https://linkedin.com/in/rajeshkhadka) &nbsp; [![alt text][2]](https://medium.com/@rajesh_khadka) &nbsp; [![alt text][4]](https://twitter.com/rajesh_k_khadka)  | <img src="https://media.licdn.com/dms/image/C4E03AQGjNusIZ2S2xg/profile-displayphoto-shrink_800_800/0?e=1555545600&v=beta&t=vnl4ja3aIKxY1WyYwRRBRNjlNFhgaoSZxmblc21bDeY" width="100px;"/><br /><sub><b>Sparsha Dotel</b></sub> <br /> [![alt text][1]](https://github.com/darmagedon) &nbsp; [![alt text][3]](https://www.linkedin.com/in/sparsha-dotel-b3043073/) &nbsp; [![alt text][2]](https://medium.com/@rajesh_khadka) &nbsp; [![alt text][4]](https://twitter.com/rajesh_k_khadka) | <img src="https://avatars3.githubusercontent.com/u/25504619?s=400&v=4" width="100px;"/><br /><sub><b>Dhiraj Sharma</b></sub> <br /> [![alt text][1]](https://github.com/sharmadhiraj) &nbsp; [![alt text][3]](https://www.linkedin.com/in/dhiraj-sharma-84b7ba138/) &nbsp; [![alt text][2]](https://medium.com/@sharmadhiraj.np) &nbsp; [![alt text][4]](https://twitter.com/sharma_dhiraj1) |
 | ------------- | ------------- | ------------- |
