@@ -19,7 +19,7 @@ Wait 👀
 We wanna know more about you.
 1. Solve [problems](https://github.com/incwell-technology/Android-Bootcamp/wiki/Programming-test) using laguage that computer understand
 2. Push it to your github
-3. Add us [@khadkarajesh, @darmagedon] as collaborator
+3. Add us [@khadkarajesh](github.com/khadkarajesh), [@darmagedon](https://github.com/darmagedon) as collaborator
 4. We will provide you a feedback on your repository
 5. We will reach you for further steps
 
