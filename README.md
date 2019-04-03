@@ -14,10 +14,10 @@
 # Are you ready for marathon 🏃?
 Wait 👀
 
-Best mentors are those who understand you and design curriculam that fits best for you rather than using a templete.
+**Best mentors are those who understand you and design curriculam that fits best for you rather than using a templete.**
 
 We wanna know more about you.
-1. Solve these problems
+1. Solve these problems using laguage that computer understand
 2. Push it to github
 3. Add us as collaborator
 4. We will provide you a feedback on your repository
