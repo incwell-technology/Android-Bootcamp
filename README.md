@@ -1,4 +1,4 @@
-# You will learn
+# We assist on followings
 1. [Training on git](https://github.com/khadkarajesh/Android-Bootcamp/wiki/Learn-Git)
 2. [Software development process](https://github.com/incwell-technology/Android-Bootcamp/wiki/Software-Development-Process)
 3. [Training on kotlin](https://github.com/incwell-technology/Android-Bootcamp/wiki/Kotlin)
