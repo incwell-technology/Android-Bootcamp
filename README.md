@@ -3,10 +3,11 @@
 2. [Software development process](https://github.com/incwell-technology/Android-Bootcamp/wiki/Software-Development-Process)
 3. [Training on kotlin](https://github.com/incwell-technology/Android-Bootcamp/wiki/Kotlin)
 4. [Training on Android Framework](https://github.com/incwell-technology/Android-Bootcamp/wiki/Android-Application-Development)
-5. [Training on portfolio building](https://github.com/incwell-technology/Android-Bootcamp/wiki/Project-Concept)
-6. [Training on interview preparation](https://github.com/incwell-technology/Android-Bootcamp/wiki/Training-on-interview-preparation)
-7. [One on One mentorship](https://github.com/incwell-technology/Android-Bootcamp/wiki/one-on-one-mentorship)
-8. [Open source contribution](https://github.com/incwell-technology/Android-Bootcamp/wiki/Open-Source-contribution)
+5. [Automation with Gitlab CI](https://github.com/incwell-technology/Android-Bootcamp/wiki/Automation-with-Gitlab-CI)
+6. [Training on portfolio building](https://github.com/incwell-technology/Android-Bootcamp/wiki/Project-Concept)
+7. [Training on interview preparation](https://github.com/incwell-technology/Android-Bootcamp/wiki/Training-on-interview-preparation)
+8. [One on One mentorship](https://github.com/incwell-technology/Android-Bootcamp/wiki/one-on-one-mentorship)
+9. [Open source contribution](https://github.com/incwell-technology/Android-Bootcamp/wiki/Open-Source-contribution)
 
 # Curious about your days 🤔?
 Here's a schedule for the days to come.
